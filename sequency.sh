@@ -1,3 +1,4 @@
+#!/bin/bash
 start=$(date +%s)
 amt=0
 avg=0
